@@ -10,3 +10,4 @@
 - "A Theory of Rational Addiction" -- Becker, Murphy (1988)
 - "Crime and Punishment" -- Becker (1968)
 - "Make Trade Not War" -- Martin, Mayer, Thoenig (2008)
+- "How Food Banks Use Markets to Feed the Poor" -- Prendergast (2017)
